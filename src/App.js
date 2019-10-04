@@ -43,7 +43,7 @@ class App extends Component {
       <div className="caja">
          <Router>
 
-              <Link to="/">Home</Link>
+              <Link to="/">HOME</Link>
             
             
 
