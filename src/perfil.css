@@ -1,0 +1,28 @@
+.caja-user{
+    margin:auto;
+    width: 500px;
+}
+
+p{
+    color: rgb(3, 3, 3);
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+    font-size: 25px;
+ 
+}
+
+.item{
+    color: rgb(212, 14, 14);
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+    font-size: 40px;
+}
+
+.img-user{
+    width: 360px;
+    height: 320px;
+    border-radius: 50%;
+    padding: 10px;
+
+}
+

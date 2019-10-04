@@ -1,0 +1,28 @@
+ 
+   [       
+        {
+            "id":1,
+            "nombre":"Albert Einstein",
+            "email":"Albert@Einstein",
+            "telefono": "4947645",
+            "img":"https://st-listas.20minutos.es/images/2010-10/257840/2717889_640px.jpg?1287846057",
+            "descrip":"Albert Einstein fue un físico alemán de origen judío, nacionalizado después suizo, austriaco y estadounidense. Se lo considera el científico más importante, conocido y popular del siglo XX.​​"
+        },
+        {
+            "id":2,
+            "nombre":"Stephen Hawking",
+            "email":"Stephen Hawking",
+            "telefono": "4947649",
+            "img":"http://factorelblog.com/wp-content/uploads/2010/04/stephen-hawking.jpg?w=640",
+            "descrip":"Stephen William Hawking ​​ fue un físico teórico, astrofísico, cosmólogo y divulgador científico británico."
+        },
+        {
+            "id":3,
+            "nombre":"Neil deGrasse Tyson",
+            "email":"deGrasse@10",
+            "telefono": "4947676",
+            "img":"https://ichef.bbci.co.uk/news/660/cpsprodpb/12A70/production/_104600467_neil34.jpg",
+            "descrip":"Neil deGrasse Tyson es un astrofísico, escritor y divulgador científico estadounidense. Actualmente es director del Planetario Hayden en el Centro Rose para la Tierra y el Espacio, investigador asociado en el Departamento de Astrofísica del Museo Americano de Historia Natural."
+        }
+    ]
+ 

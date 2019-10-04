@@ -1,0 +1,22 @@
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+
+li{
+  text-decoration: none;
+  list-style: none;
+  padding: 20px;
+}
+
+td{
+  cursor: pointer;
+}
+
+.caja{
+  margin: auto;
+}
